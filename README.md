@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img width="1920" height="562" src="https://github.com/alkeev00/alkeev00/blob/main/assets/mainheader.svg" alt="Alkeev Ivan"/>
+  <img src="https://github.com/alkeev00/alkeev00/blob/main/assets/mainheader.svg" alt="Alkeev Ivan"/>
 </h1>
 
 <h2 align="center">
