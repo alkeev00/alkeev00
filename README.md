@@ -13,6 +13,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231B1B1B.svg?style=for-the-badge&logo=css3&logoColor=EFEFEF)
 ![JavaScript](https://img.shields.io/badge/javascript-%231B1B1B.svg?style=for-the-badge&logo=javascript&logoColor=%23EFEFEF)
 ![React](https://img.shields.io/badge/react-%231B1B1B.svg?style=for-the-badge&logo=react&logoColor=%23EFEFEF)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%231B1B1B.svg?style=for-the-badge&logo=tailwind-css&logoColor=EFEFEF)
 ![SASS](https://img.shields.io/badge/SASS-1B1B1B.svg?style=for-the-badge&logo=SASS&logoColor=EFEFEF)
 
 ![Figma](https://img.shields.io/badge/figma-%231B1B1B.svg?style=for-the-badge&logo=figma&logoColor=EFEFEF)
