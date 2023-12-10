@@ -21,4 +21,4 @@
 </h3>
 
 <a href="https://t.me/alkeev00">![Telegram](https://img.shields.io/badge/Telegram-1B1B1B?style=for-the-badge&logo=telegram&logoColor=EFEFEF)</a>
-<a href="mailto:i.alkeev00@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-1B1B1B?style=for-the-badge&logo=gmail&logoColor=EFEFEF)</a>
+<a href="mailto:i.alkeev.iv@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-1B1B1B?style=for-the-badge&logo=gmail&logoColor=EFEFEF)</a>
