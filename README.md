@@ -20,5 +20,5 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Lexend+Exa&weight=200&size=66&duration=1&pause=1&color=EFEFEF&background=1B1B1B00&vCenter=true&repeat=false&width=2641&height=120&lines=contact" alt="Typing SVG" />
 </h3>
 
-<a href="https://t.me/alkeev00">![Telegram](https://img.shields.io/badge/Telegram-1B1B1B?style=for-the-badge&logo=telegram&logoColor=EFEFEF)</a>
+<a href="https://t.me/alkeevivan">![Telegram](https://img.shields.io/badge/Telegram-1B1B1B?style=for-the-badge&logo=telegram&logoColor=EFEFEF)</a>
 <a href="mailto:i.alkeev.iv@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-1B1B1B?style=for-the-badge&logo=gmail&logoColor=EFEFEF)</a>
